@@ -403,10 +403,9 @@ Unauthorized copying, distribution, or use of this material is strictly prohibit
 
 **Vinit Prajapati**
 
-- **Role**: Product Architect / Documentation Lead  
+- **Role**: Associate Project Manager / Documentation Lead 
 - **Project**: ShopSphere — Project Horizon  
-- **Organization**: Meridian Retail Pvt. Ltd.  
-- **Email**: vinit.prajapati@meridianretail.com  
+- **Email**: vinitoza1702@gmail.com  
 - **Created**: June 2026  
 
 *Comprehensive product documentation created to guide the development, implementation, and launch of the ShopSphere e-commerce platform.*
@@ -453,6 +452,6 @@ Unauthorized copying, distribution, or use of this material is strictly prohibit
 
 Built |🤝| Authored by Vinit Prajapati
 
-*Last Updated: June 9, 2026*
+*Last Updated: June 2, 2026*
 
 </div>
