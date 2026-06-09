@@ -445,21 +445,13 @@ Unauthorized copying, distribution, or use of this material is strictly prohibit
 
 ---
 
-## 📞 Support & Contact
-
-For support or questions regarding this project documentation:
-
-**📧 Email**: product-team@meridianretail.com  
-**📱 Phone**: +91-XXX-XXXX-XXXX  
-**🏢 Office**: Meridian Retail Pvt. Ltd., [City], India  
-
 ---
 
 <div align="center">
 
 **ShopSphere — Revolutionizing E-commerce in India**
 
-Built with 🤝 by Meridian Retail Team | Authored by Vinit Prajapati
+Built |🤝| Authored by Vinit Prajapati
 
 *Last Updated: June 9, 2026*
 
